@@ -1,1 +1,1 @@
-web: bokeh serve — port=$PORT — allow-websocket-origin=blokeh-blog.herokuapp.com — address=0.0.0.0 — use-xheaders /home/drew/Notebooks/myapp/bokeh-blog/app/
+web: bokeh serve — port=$PORT — allow-websocket-origin=blokeh-blog.herokuapp.com — address=0.0.0.0 — use-xheaders app/main.py
