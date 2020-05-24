@@ -2,7 +2,6 @@ import bokeh
 from bokeh.models import Button, Paragraph, TextInput, WidgetBox
 from bokeh.plotting import curdoc, figure
 from bokeh.embed import server_document
-from bokeh.server.server import Server
 from clean import clean
 
 import pandas as pd
