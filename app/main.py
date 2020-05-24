@@ -7,8 +7,8 @@ from clean import clean
 import pandas as pd
 import joblib
 
-vocab = joblib.load('app/feature')
-model = joblib.load('app/xgbooster')
+vocab = joblib.load('feature')
+model = joblib.load('xgbooster')
 
 
 
