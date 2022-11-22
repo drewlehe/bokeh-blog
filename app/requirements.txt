@@ -22,7 +22,7 @@ nltk
 olefile==0.46
 packaging==20.3
 pandas==1.0.3
-Pillow==7.0.0
+Pillow==9.3.0
 plac==1.1.3
 preshed==3.0.2
 pyparsing==2.4.6
